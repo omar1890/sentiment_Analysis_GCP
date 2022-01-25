@@ -4,3 +4,5 @@
 <h2>results of positive review file </h2>
 <br>
 <image src="results.PNG">
+
+ #### where score is -1 for negative and 1 for postive -- magnitude : stregnth of overall emotion
